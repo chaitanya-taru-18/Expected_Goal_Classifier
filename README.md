@@ -13,7 +13,8 @@ Implementation of expected goals classifier using ensemble learning.
   
   
   - Update dataset path in 'read_data.ipynb'.
-  
+
+  - Due to the size of the data having large RAM is recommended.
   
   - Install all the dependencies:
   
