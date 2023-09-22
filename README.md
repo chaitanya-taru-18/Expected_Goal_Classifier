@@ -39,6 +39,6 @@ Implementation of expected goals classifier using ensemble learning.
       	1. Run 'read_data.ipynb' file in Jupyter Notebook.
       	2. Run 'Read_shots.ipynb' file in Jupyter Notebook.
       	3. Open 'xG_classifier.ipynb' file in Jupyter Notebook.
-      	3. Finally, run cells one by one.
+      	4. Finally, run cells one by one.
 
 
