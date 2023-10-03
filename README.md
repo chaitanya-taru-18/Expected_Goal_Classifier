@@ -1,10 +1,5 @@
 # Expected_Goal_Classifier
 Implementation of expected goals classifier using ensemble learning.
-
-
-  - Download/clone code from git repository:
-  
-  	    GitHub: https://github.com/chaitanya-taru-18/Expected_Goal_Classifier
   
   
   - Download StatsBomb dataset:
